@@ -1,0 +1,8 @@
+,category,max sample path,"max_counos.fsdecode(max_sample_path), t",min sample path,min_count
+0,arrest,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_21,539,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_25,33
+1,attack,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_39,1055,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_71,10
+2,blast,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\blast\video_18,255,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\blast\video_14,14
+3,deliberate damage,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_23,4219,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_31,13
+4,firing,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\firing\video_10,723,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\firing\video_1,9
+5,road accident,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_48,602,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_69,4
+6,theft,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_244,2224,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_250,0

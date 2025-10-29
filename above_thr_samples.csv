@@ -1,0 +1,17 @@
+,path,no of samples,category
+0,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_20,528,arrest
+1,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_21,539,arrest
+2,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_39,1055,attack
+3,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_50,876,attack
+4,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_54,560,attack
+5,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_85,560,attack
+6,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_88,950,attack
+7,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_23,4219,deliberate damage
+8,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\firing\video_10,723,firing
+9,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_48,602,road accident
+10,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_11,907,theft
+11,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_243,782,theft
+12,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_244,2224,theft
+13,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_3,807,theft
+14,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_54,728,theft
+15,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_73,527,theft
