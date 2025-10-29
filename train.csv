@@ -1,0 +1,608 @@
+,path,category
+0,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_1,arrest
+1,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_10,arrest
+2,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_11,arrest
+3,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_12,arrest
+4,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_13,arrest
+5,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_14,arrest
+6,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_15,arrest
+7,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_16,arrest
+8,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_17,arrest
+9,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_18,arrest
+10,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_19,arrest
+11,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_2,arrest
+12,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_20,arrest
+13,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_21,arrest
+14,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_22,arrest
+15,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_23,arrest
+16,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_24,arrest
+17,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_25,arrest
+18,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_26,arrest
+19,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_27,arrest
+20,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_28,arrest
+21,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_29,arrest
+22,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_3,arrest
+23,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_30,arrest
+24,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_31,arrest
+25,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_32,arrest
+26,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_33,arrest
+27,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_4,arrest
+28,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_5,arrest
+29,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_6,arrest
+30,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_7,arrest
+31,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_8,arrest
+32,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\arrest\video_9,arrest
+33,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_1,attack
+34,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_10,attack
+35,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_100,attack
+36,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_11,attack
+37,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_12,attack
+38,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_13,attack
+39,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_14,attack
+40,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_15,attack
+41,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_16,attack
+42,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_17,attack
+43,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_18,attack
+44,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_19,attack
+45,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_2,attack
+46,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_20,attack
+47,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_21,attack
+48,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_22,attack
+49,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_23,attack
+50,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_24,attack
+51,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_25,attack
+52,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_26,attack
+53,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_27,attack
+54,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_28,attack
+55,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_29,attack
+56,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_3,attack
+57,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_30,attack
+58,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_31,attack
+59,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_32,attack
+60,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_33,attack
+61,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_34,attack
+62,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_35,attack
+63,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_36,attack
+64,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_37,attack
+65,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_38,attack
+66,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_39,attack
+67,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_4,attack
+68,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_40,attack
+69,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_41,attack
+70,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_42,attack
+71,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_43,attack
+72,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_44,attack
+73,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_45,attack
+74,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_46,attack
+75,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_47,attack
+76,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_48,attack
+77,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_49,attack
+78,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_5,attack
+79,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_50,attack
+80,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_51,attack
+81,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_52,attack
+82,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_53,attack
+83,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_54,attack
+84,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_55,attack
+85,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_56,attack
+86,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_57,attack
+87,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_58,attack
+88,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_59,attack
+89,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_6,attack
+90,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_60,attack
+91,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_61,attack
+92,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_62,attack
+93,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_63,attack
+94,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_64,attack
+95,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_65,attack
+96,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_66,attack
+97,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_67,attack
+98,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_68,attack
+99,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_69,attack
+100,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_7,attack
+101,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_70,attack
+102,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_71,attack
+103,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_72,attack
+104,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_73,attack
+105,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_74,attack
+106,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_75,attack
+107,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_76,attack
+108,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_77,attack
+109,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_78,attack
+110,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_79,attack
+111,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_8,attack
+112,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_80,attack
+113,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_81,attack
+114,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_82,attack
+115,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_83,attack
+116,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_84,attack
+117,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_85,attack
+118,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_86,attack
+119,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_87,attack
+120,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_88,attack
+121,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_89,attack
+122,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_9,attack
+123,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_90,attack
+124,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_91,attack
+125,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_92,attack
+126,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_93,attack
+127,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_94,attack
+128,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_95,attack
+129,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_96,attack
+130,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_97,attack
+131,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_98,attack
+132,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\attack\video_99,attack
+133,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\blast\video_1,blast
+134,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\blast\video_10,blast
+135,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\blast\video_11,blast
+136,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\blast\video_12,blast
+137,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\blast\video_13,blast
+138,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\blast\video_14,blast
+139,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\blast\video_15,blast
+140,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\blast\video_16,blast
+141,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\blast\video_17,blast
+142,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\blast\video_18,blast
+143,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\blast\video_2,blast
+144,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\blast\video_3,blast
+145,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\blast\video_4,blast
+146,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\blast\video_5,blast
+147,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\blast\video_6,blast
+148,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\blast\video_7,blast
+149,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\blast\video_8,blast
+150,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\blast\video_9,blast
+151,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_1,deliberate damage
+152,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_10,deliberate damage
+153,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_11,deliberate damage
+154,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_12,deliberate damage
+155,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_13,deliberate damage
+156,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_14,deliberate damage
+157,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_15,deliberate damage
+158,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_16,deliberate damage
+159,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_17,deliberate damage
+160,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_18,deliberate damage
+161,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_19,deliberate damage
+162,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_2,deliberate damage
+163,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_20,deliberate damage
+164,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_21,deliberate damage
+165,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_22,deliberate damage
+166,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_23,deliberate damage
+167,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_24,deliberate damage
+168,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_25,deliberate damage
+169,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_26,deliberate damage
+170,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_27,deliberate damage
+171,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_28,deliberate damage
+172,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_29,deliberate damage
+173,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_3,deliberate damage
+174,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_30,deliberate damage
+175,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_31,deliberate damage
+176,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_32,deliberate damage
+177,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_33,deliberate damage
+178,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_34,deliberate damage
+179,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_35,deliberate damage
+180,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_36,deliberate damage
+181,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_37,deliberate damage
+182,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_38,deliberate damage
+183,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_39,deliberate damage
+184,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_4,deliberate damage
+185,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_40,deliberate damage
+186,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_41,deliberate damage
+187,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_42,deliberate damage
+188,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_43,deliberate damage
+189,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_44,deliberate damage
+190,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_45,deliberate damage
+191,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_46,deliberate damage
+192,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_47,deliberate damage
+193,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_48,deliberate damage
+194,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_49,deliberate damage
+195,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_5,deliberate damage
+196,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_50,deliberate damage
+197,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_51,deliberate damage
+198,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_52,deliberate damage
+199,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_53,deliberate damage
+200,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_54,deliberate damage
+201,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_55,deliberate damage
+202,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_56,deliberate damage
+203,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_57,deliberate damage
+204,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_58,deliberate damage
+205,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_59,deliberate damage
+206,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_6,deliberate damage
+207,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_60,deliberate damage
+208,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_61,deliberate damage
+209,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_62,deliberate damage
+210,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_63,deliberate damage
+211,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_64,deliberate damage
+212,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_65,deliberate damage
+213,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_66,deliberate damage
+214,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_67,deliberate damage
+215,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_7,deliberate damage
+216,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_8,deliberate damage
+217,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\deliberate damage\video_9,deliberate damage
+218,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\firing\video_1,firing
+219,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\firing\video_10,firing
+220,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\firing\video_11,firing
+221,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\firing\video_12,firing
+222,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\firing\video_13,firing
+223,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\firing\video_14,firing
+224,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\firing\video_15,firing
+225,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\firing\video_16,firing
+226,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\firing\video_17,firing
+227,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\firing\video_18,firing
+228,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\firing\video_19,firing
+229,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\firing\video_2,firing
+230,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\firing\video_20,firing
+231,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\firing\video_21,firing
+232,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\firing\video_22,firing
+233,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\firing\video_23,firing
+234,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\firing\video_24,firing
+235,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\firing\video_25,firing
+236,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\firing\video_26,firing
+237,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\firing\video_27,firing
+238,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\firing\video_28,firing
+239,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\firing\video_29,firing
+240,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\firing\video_3,firing
+241,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\firing\video_30,firing
+242,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\firing\video_31,firing
+243,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\firing\video_32,firing
+244,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\firing\video_33,firing
+245,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\firing\video_4,firing
+246,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\firing\video_5,firing
+247,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\firing\video_6,firing
+248,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\firing\video_7,firing
+249,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\firing\video_8,firing
+250,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\firing\video_9,firing
+251,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_1,road accident
+252,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_10,road accident
+253,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_100,road accident
+254,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_11,road accident
+255,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_12,road accident
+256,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_13,road accident
+257,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_14,road accident
+258,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_15,road accident
+259,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_16,road accident
+260,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_17,road accident
+261,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_18,road accident
+262,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_19,road accident
+263,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_2,road accident
+264,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_20,road accident
+265,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_21,road accident
+266,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_22,road accident
+267,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_23,road accident
+268,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_24,road accident
+269,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_25,road accident
+270,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_26,road accident
+271,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_27,road accident
+272,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_28,road accident
+273,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_29,road accident
+274,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_3,road accident
+275,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_30,road accident
+276,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_31,road accident
+277,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_32,road accident
+278,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_33,road accident
+279,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_34,road accident
+280,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_35,road accident
+281,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_36,road accident
+282,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_37,road accident
+283,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_38,road accident
+284,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_39,road accident
+285,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_4,road accident
+286,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_40,road accident
+287,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_41,road accident
+288,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_42,road accident
+289,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_43,road accident
+290,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_44,road accident
+291,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_45,road accident
+292,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_46,road accident
+293,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_47,road accident
+294,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_48,road accident
+295,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_49,road accident
+296,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_5,road accident
+297,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_50,road accident
+298,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_51,road accident
+299,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_52,road accident
+300,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_53,road accident
+301,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_54,road accident
+302,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_55,road accident
+303,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_56,road accident
+304,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_57,road accident
+305,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_58,road accident
+306,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_59,road accident
+307,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_6,road accident
+308,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_60,road accident
+309,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_61,road accident
+310,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_62,road accident
+311,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_63,road accident
+312,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_64,road accident
+313,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_65,road accident
+314,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_66,road accident
+315,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_67,road accident
+316,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_68,road accident
+317,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_69,road accident
+318,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_7,road accident
+319,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_70,road accident
+320,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_71,road accident
+321,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_72,road accident
+322,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_73,road accident
+323,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_74,road accident
+324,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_75,road accident
+325,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_76,road accident
+326,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_77,road accident
+327,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_78,road accident
+328,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_79,road accident
+329,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_8,road accident
+330,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_80,road accident
+331,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_81,road accident
+332,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_82,road accident
+333,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_83,road accident
+334,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_84,road accident
+335,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_85,road accident
+336,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_86,road accident
+337,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_87,road accident
+338,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_88,road accident
+339,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_89,road accident
+340,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_9,road accident
+341,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_90,road accident
+342,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_91,road accident
+343,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_92,road accident
+344,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_93,road accident
+345,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_94,road accident
+346,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_95,road accident
+347,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_96,road accident
+348,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_97,road accident
+349,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_98,road accident
+350,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\road accident\video_99,road accident
+351,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_1,theft
+352,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_10,theft
+353,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_100,theft
+354,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_101,theft
+355,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_102,theft
+356,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_103,theft
+357,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_104,theft
+358,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_105,theft
+359,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_106,theft
+360,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_107,theft
+361,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_108,theft
+362,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_109,theft
+363,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_11,theft
+364,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_110,theft
+365,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_111,theft
+366,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_112,theft
+367,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_113,theft
+368,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_114,theft
+369,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_115,theft
+370,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_116,theft
+371,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_117,theft
+372,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_118,theft
+373,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_119,theft
+374,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_12,theft
+375,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_120,theft
+376,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_121,theft
+377,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_122,theft
+378,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_123,theft
+379,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_124,theft
+380,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_125,theft
+381,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_126,theft
+382,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_127,theft
+383,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_128,theft
+384,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_129,theft
+385,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_13,theft
+386,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_130,theft
+387,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_131,theft
+388,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_132,theft
+389,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_133,theft
+390,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_134,theft
+391,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_135,theft
+392,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_136,theft
+393,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_137,theft
+394,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_138,theft
+395,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_139,theft
+396,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_14,theft
+397,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_140,theft
+398,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_141,theft
+399,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_142,theft
+400,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_143,theft
+401,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_144,theft
+402,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_145,theft
+403,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_146,theft
+404,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_147,theft
+405,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_148,theft
+406,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_149,theft
+407,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_15,theft
+408,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_150,theft
+409,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_151,theft
+410,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_152,theft
+411,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_153,theft
+412,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_154,theft
+413,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_155,theft
+414,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_156,theft
+415,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_157,theft
+416,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_158,theft
+417,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_159,theft
+418,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_16,theft
+419,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_160,theft
+420,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_161,theft
+421,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_162,theft
+422,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_163,theft
+423,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_164,theft
+424,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_165,theft
+425,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_166,theft
+426,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_167,theft
+427,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_168,theft
+428,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_169,theft
+429,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_17,theft
+430,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_170,theft
+431,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_171,theft
+432,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_172,theft
+433,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_173,theft
+434,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_174,theft
+435,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_175,theft
+436,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_176,theft
+437,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_177,theft
+438,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_178,theft
+439,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_179,theft
+440,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_18,theft
+441,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_180,theft
+442,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_181,theft
+443,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_182,theft
+444,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_183,theft
+445,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_184,theft
+446,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_185,theft
+447,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_186,theft
+448,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_187,theft
+449,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_188,theft
+450,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_189,theft
+451,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_19,theft
+452,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_190,theft
+453,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_191,theft
+454,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_192,theft
+455,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_193,theft
+456,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_194,theft
+457,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_195,theft
+458,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_196,theft
+459,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_197,theft
+460,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_198,theft
+461,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_199,theft
+462,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_2,theft
+463,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_20,theft
+464,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_200,theft
+465,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_201,theft
+466,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_202,theft
+467,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_203,theft
+468,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_204,theft
+469,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_205,theft
+470,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_206,theft
+471,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_207,theft
+472,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_208,theft
+473,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_209,theft
+474,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_21,theft
+475,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_210,theft
+476,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_211,theft
+477,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_212,theft
+478,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_213,theft
+479,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_214,theft
+480,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_215,theft
+481,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_216,theft
+482,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_217,theft
+483,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_218,theft
+484,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_219,theft
+485,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_22,theft
+486,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_220,theft
+487,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_221,theft
+488,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_222,theft
+489,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_223,theft
+490,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_224,theft
+491,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_225,theft
+492,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_226,theft
+493,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_227,theft
+494,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_228,theft
+495,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_229,theft
+496,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_23,theft
+497,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_230,theft
+498,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_231,theft
+499,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_232,theft
+500,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_233,theft
+501,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_234,theft
+502,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_235,theft
+503,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_236,theft
+504,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_237,theft
+505,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_238,theft
+506,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_239,theft
+507,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_24,theft
+508,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_240,theft
+509,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_241,theft
+510,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_242,theft
+511,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_243,theft
+512,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_244,theft
+513,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_245,theft
+514,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_246,theft
+515,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_247,theft
+516,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_248,theft
+517,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_249,theft
+518,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_25,theft
+519,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_250,theft
+520,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_251,theft
+521,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_252,theft
+522,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_253,theft
+523,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_254,theft
+524,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_255,theft
+525,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_256,theft
+526,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_26,theft
+527,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_27,theft
+528,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_28,theft
+529,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_29,theft
+530,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_3,theft
+531,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_30,theft
+532,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_31,theft
+533,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_32,theft
+534,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_33,theft
+535,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_34,theft
+536,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_35,theft
+537,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_36,theft
+538,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_37,theft
+539,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_38,theft
+540,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_39,theft
+541,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_4,theft
+542,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_40,theft
+543,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_41,theft
+544,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_42,theft
+545,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_43,theft
+546,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_44,theft
+547,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_45,theft
+548,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_46,theft
+549,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_47,theft
+550,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_48,theft
+551,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_49,theft
+552,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_5,theft
+553,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_50,theft
+554,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_51,theft
+555,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_52,theft
+556,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_53,theft
+557,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_54,theft
+558,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_55,theft
+559,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_56,theft
+560,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_57,theft
+561,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_58,theft
+562,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_59,theft
+563,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_6,theft
+564,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_60,theft
+565,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_61,theft
+566,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_62,theft
+567,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_63,theft
+568,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_64,theft
+569,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_65,theft
+570,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_66,theft
+571,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_67,theft
+572,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_68,theft
+573,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_69,theft
+574,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_7,theft
+575,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_70,theft
+576,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_71,theft
+577,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_72,theft
+578,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_73,theft
+579,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_74,theft
+580,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_75,theft
+581,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_76,theft
+582,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_77,theft
+583,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_78,theft
+584,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_79,theft
+585,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_8,theft
+586,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_80,theft
+587,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_81,theft
+588,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_82,theft
+589,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_83,theft
+590,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_84,theft
+591,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_85,theft
+592,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_86,theft
+593,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_87,theft
+594,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_88,theft
+595,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_89,theft
+596,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_9,theft
+597,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_90,theft
+598,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_91,theft
+599,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_92,theft
+600,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_93,theft
+601,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_94,theft
+602,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_95,theft
+603,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_96,theft
+604,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_97,theft
+605,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_98,theft
+606,C:\Development\Code\JupyterProjects\MLBuzz22\Crime Dataset\train\theft\video_99,theft
